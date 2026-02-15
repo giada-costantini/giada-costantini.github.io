@@ -12,4 +12,4 @@ I hold a PhD in Sociology of Education from the University of Birmingham, affili
 
 
 
-*NEWS*: I am currently co-editing a special section of the International Journal of Disability, Development and Education (IJDDE) on the topic of “Inclusive Education: Displacement and Disability in Southern Contexts” with Professor Elizabeth Walton (University of Nottingham). Feel free to check the call for manuscript and reach out should you be interested in sending an abstract! [TBD manuscript pdf]
+*NEWS*: I am currently co-editing a special section of the International Journal of Disability, Development and Education (IJDDE) on the topic of “Inclusive Education: Displacement and Disability in Southern Contexts” with Professor Elizabeth Walton (University of Nottingham). Check the call for manuscript [Here]( /files/call_ijdde.pdf) and feel free to reach out should you be interested in sending an abstract! 
