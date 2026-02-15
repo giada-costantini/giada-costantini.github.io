@@ -12,4 +12,6 @@ I hold a PhD in Sociology of Education from the University of Birmingham, comple
 
 Over the past five years, I have worked as a consultant for several international organizations, including the World Bank, the Foreign, Commonwealth & Development Office (FCDO), and the Inter-Agency Network for Education in Emergencies (INEE). I have also completed internships with the Education Cannot Wait --- the United Nations Global Fund for Education in Emergencies --- and with EducAid. 
 
-**NEWS**: I am currently co-editing a special section of the International Journal of Disability, Development and Education (IJDDE) on the topic of “Inclusive Education: Displacement and Disability in Southern Contexts” with Professor Elizabeth Walton (University of Nottingham). Check the call for manuscript [Here]( /files/call_ijdde.pdf) and feel free to reach out should you be interested in sending an abstract! 
+---
+
+**NEWS**: I am currently co-editing a special section of the International Journal of Disability, Development and Education (IJDDE) on the topic of “Inclusive Education: Displacement and Disability in Southern Contexts” with Professor Elizabeth Walton (University of Nottingham). Check the call for manuscript [here]( /files/call_ijdde.pdf) and feel free to reach out should you be interested in sending an abstract! 
