@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hi! I’m currently a postdoctoral research fellow at the [Center on Forced Displacement](https://www.bu.edu/cfd/) at Boston University. I love to spend my time thinking, researching, writing, and --- just as importantly --- learning from others. I’m an interdisciplinary researcher who believes strongly in the power of knowledge co-production, and my work is guided by a commitment to advancing social justice. 
-I hold a PhD in Sociology of Education from the University of Birmingham, affiliated to  the Global Challenges Research Fund (GCRF) – Arts and Humanities Research Council (AHRRC), funded by the Network Plus [Disability Under Siege](https://disabilityundersiege.org/) Programme, and supervised by Professor Dina Kiwan and Dr. Valentina Migliarini. Throughout my academic journey, I’ve had the opportunity to study in diverse international contexts, including the University of Naples L’Orientale and IULM University in Italy, as well as the University of Sussex in the UK.
+I hold a PhD in Sociology of Education from the University of Birmingham, affiliated to  the Global Challenges Research Fund (GCRF) – Arts and Humanities Research Council (AHRRC), funded by the Network Plus [Disability Under Siege Programme](https://disabilityundersiege.org/), and supervised by Professor Dina Kiwan and Dr. Valentina Migliarini. Throughout my academic journey, I’ve had the opportunity to study in diverse international contexts, including the University of Naples L’Orientale and IULM University in Italy, as well as the University of Sussex in the UK.
 
 
 
