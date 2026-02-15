@@ -23,7 +23,7 @@ repository               : "giada-costantini/giada-costantini.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "gcprofile.png"
+  avatar           : "gcprofile.jpg"
   name             : "Giada Costantini"
   pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
