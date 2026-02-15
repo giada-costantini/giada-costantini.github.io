@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 ## MA level 
-2024-2025 *Education as an International Issue*
-Supervised 5 PG dissertation students and provided mentorship to 10 PG students as academic advisor
+2024-2025 *Education as an International Issue*  
+Supervised 5 PG dissertation students and provided mentorship to 10 PG students as academic advisor  
 
 --- 
 
 ## UG level 
-2024-2025 *UG Dissertation Module*
-2022-2025 *Equality and Diversity: Children, Families and Society*
-2022-2023 *Education, Policy and Social Justice*
-Provided mentorship to 12 UG students as academic advisor
+2024-2025 *UG Dissertation Module*  
+2022-2025 *Equality and Diversity: Children, Families and Society*  
+2022-2023 *Education, Policy and Social Justice*  
+Provided mentorship to 12 UG students as academic advisor  
