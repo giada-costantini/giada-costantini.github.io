@@ -7,6 +7,7 @@ author_profile: true
 
 ## Academic publications
 
+- Costantini, G. (2026). Intersecting marginalities: navigating educational barriers at the crossroad of disability and displacement. Compare: A Journal of Comparative and International Education, 1–20.
 - Costantini, G. (2025). "Neoliberal inclusion" and the structural exclusion of syrian refugee children with disabilities from humanitarian education in lebanon. In *Forced Migration, Disability and Education* (pp. 85-98). Routledge.  
 - Costantini, G. (2025). “No one cares about children with disabilities!”: Shifting the Narrative and Centering Syrian Refugee Children with Disabilities and Their Parents’ Experiences in Lebanon. In *Humanizing disability and inclusive education research in the Global South* (pp. 227-252). Cham: Springer Nature Switzerland.  
 - Costantini, G., & El-Serafy, Y. (2025). Exacerbating exclusion? How the logic of refugee education perpetuates the exclusion of refugees with disabilities in Lebanon. In *International Review of Education*, 71(2), 301-319.  
