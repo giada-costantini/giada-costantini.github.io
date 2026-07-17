@@ -14,4 +14,7 @@ Previously, I was research and teaching associate at the University of Birmingha
 
 ---
 
-**NEWS**: I am currently working on the impact of recent funding cuts on inclusive education in emergencies. If you are an inclusive education in emergency actor, and you want to share your perspectives, please feel free to reach out.
+**NEWS**: 
+i) I am currently working on the impact of recent funding cuts on inclusive education in emergencies. If you are an inclusive education in emergency actor, and you want to share your perspectives, please feel free to reach out. 
+ii) With my collegue [Ally](https://www.alisonvictoria.co.uk/) we are workshopping our new research-led toolkit "Education in Emergencies: A Critical Toolkit for Reflective Practice". It will  soon be freely available. If you are interested please, again, feel free to reach out.
+
